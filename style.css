@@ -1,0 +1,14 @@
+p {
+    color:green;
+    font-size:25px;
+    font-family:'Times New Roman', Times, serif
+}
+h2 {
+    color:darkslateblue;
+    font-size:30px;
+    font-family:'Times New Roman', Times, serif
+}
+body {
+    background-color: lightblue;
+    margin:25px
+}
